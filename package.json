@@ -1,0 +1,21 @@
+{
+  "name": "nft_marketplace",
+  "version": "1.0.0",
+  "description": "A basic nft marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AK",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "@pinata/sdk": "^2.1.0",
+    "dotenv": "^16.4.1",
+    "hardhat": "^2.19.5",
+    "hardhat-deploy": "^0.11.45",
+    "hardhat-deploy-ethers": "^0.4.1"
+  }
+}
